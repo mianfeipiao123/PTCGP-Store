@@ -306,31 +306,6 @@
     color: var(--cheap);
   }
   .price-table tr.expensive td.norm { color: var(--expensive); font-weight: 600; }
-
-  /* Make each row clickable — opens official purchase page in a new tab */
-  .price-table tbody tr[data-purchase-id] {
-    cursor: pointer;
-    transition: background-color .12s ease;
-  }
-  .price-table tbody tr[data-purchase-id]:hover {
-    background-color: rgba(60, 135, 255, .10);
-  }
-  .price-table tbody tr[data-purchase-id]:active {
-    background-color: rgba(60, 135, 255, .18);
-  }
-  .price-table tbody tr.cheapest[data-purchase-id]:hover {
-    background-color: rgba(0, 191, 163, .14);
-  }
-  .price-table tbody tr td.amt::after {
-    content: " ↗";
-    font-size: 10px;
-    color: var(--muted-2);
-    opacity: 0;
-    transition: opacity .12s ease;
-  }
-  .price-table tbody tr[data-purchase-id]:hover td.amt::after {
-    opacity: 1;
-  }
   .bar-cell {
     padding: 4px 10px 4px 0 !important;
     width: 80px;
@@ -682,7 +657,7 @@ function render() {
           const barPct = (r.normalized != null && maxN > 0)
             ? Math.max(3, (r.normalized / maxN) * 100)
             : 0;
-          return '<tr class="' + cls + '" data-purchase-id="' + escapeHtml(p.id) + '" title="' + escapeHtml(t('buy_tip')) + '">' +
+          return '<tr class="' + cls + '">' +
             '<td class="cur">' + r.cur + '</td>' +
             '<td class="amt">' + fmt(r.amount, r.cur) + '</td>' +
             '<td class="norm">' + normTxt + '</td>' +
@@ -694,18 +669,6 @@ function render() {
     grid.appendChild(card);
   }
   container.appendChild(grid);
-
-  // Wire up row-click to jump to the official purchase page for that SKU.
-  // URL format discovered from the live site:
-  //   https://store.pokemontcgpocket.com/{locale}/purchase/item/{product_id}
-  // (No login required to land on the page; user signs in there to actually pay.)
-  grid.querySelectorAll('tr[data-purchase-id]').forEach(tr => {
-    tr.addEventListener('click', () => {
-      const id = tr.getAttribute('data-purchase-id');
-      const url = 'https://store.pokemontcgpocket.com/' + LANG + '/purchase/item/' + encodeURIComponent(id);
-      window.open(url, '_blank', 'noopener');
-    });
-  });
 }
 
 function buildLanguageSelect() {

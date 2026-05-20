@@ -30,9 +30,7 @@
     "err_load": "prices.json の読み込みに失敗:",
     "err_http": "HTTP 経由で開いてください",
     "language": "言語",
-    "th_currency": "通貨",
-    "buy_tip": "購入にすすむ",
-    "buy_label": "購入にすすむ"
+    "th_currency": "通貨"
   },
   "en-US": {
     "site_title": "Pokémon Trading Card Game Pocket official web store",
@@ -65,9 +63,7 @@
     "err_load": "Failed to load prices.json:",
     "err_http": "Please open via HTTP",
     "language": "Language",
-    "th_currency": "Currency",
-    "buy_tip": "Proceed to Purchase",
-    "buy_label": "Proceed to Purchase"
+    "th_currency": "Currency"
   },
   "fr-FR": {
     "site_title": "Magasin en ligne officiel du  Jeu de Cartes à Collectionner Pokémon Pocket.",
@@ -100,9 +96,7 @@
     "err_load": "Échec du chargement de prices.json :",
     "err_http": "Veuillez ouvrir via HTTP",
     "language": "Langue",
-    "th_currency": "Devise",
-    "buy_tip": "Procéder à l’achat",
-    "buy_label": "Procéder à l’achat"
+    "th_currency": "Devise"
   },
   "it-IT": {
     "site_title": "Store online ufficiale del Gioco di Carte Collezionabili Pokémon Pocket",
@@ -135,9 +129,7 @@
     "err_load": "Impossibile caricare prices.json:",
     "err_http": "Apri via HTTP",
     "language": "Lingua",
-    "th_currency": "Valuta",
-    "buy_tip": "Procedi con l'acquisto",
-    "buy_label": "Procedi con l'acquisto"
+    "th_currency": "Valuta"
   },
   "de-DE": {
     "site_title": "Offiziellen Webstore von Pokémon-Sammelkartenspiel-Pocket anzumelden.",
@@ -170,9 +162,7 @@
     "err_load": "prices.json konnte nicht geladen werden:",
     "err_http": "Bitte über HTTP öffnen",
     "language": "Sprache",
-    "th_currency": "Währung",
-    "buy_tip": "Mit dem Kauf fortfahren",
-    "buy_label": "Mit dem Kauf fortfahren"
+    "th_currency": "Währung"
   },
   "es-ES": {
     "site_title": "La tienda oficial del Juego de Cartas Coleccionables Pokémon Pocket",
@@ -205,9 +195,7 @@
     "err_load": "No se pudo cargar prices.json:",
     "err_http": "Abre vía HTTP",
     "language": "Idioma",
-    "th_currency": "Divisa",
-    "buy_tip": "Realizar compra",
-    "buy_label": "Realizar compra"
+    "th_currency": "Divisa"
   },
   "pt-BR": {
     "site_title": "Loja Online Oficial do Pokémon Estampas Ilustradas Pocket",
@@ -240,9 +228,7 @@
     "err_load": "Falha ao carregar prices.json:",
     "err_http": "Abra via HTTP",
     "language": "Idioma",
-    "th_currency": "Moeda",
-    "buy_tip": "Realizar compra",
-    "buy_label": "Realizar compra"
+    "th_currency": "Moeda"
   },
   "ko-KR": {
     "site_title": "공식 Web 스토어 「포켓몬 카드 게임 Pocket」",
@@ -275,9 +261,7 @@
     "err_load": "prices.json 불러오기 실패:",
     "err_http": "HTTP로 열어주세요",
     "language": "언어",
-    "th_currency": "통화",
-    "buy_tip": "구입 진행하기",
-    "buy_label": "구입 진행하기"
+    "th_currency": "통화"
   },
   "zh-TW": {
     "site_title": "官方網路商店《Pokémon Trading Card Game Pocket》",
@@ -310,9 +294,7 @@
     "err_load": "讀取 prices.json 失敗:",
     "err_http": "請透過 HTTP 開啟",
     "language": "語言",
-    "th_currency": "貨幣",
-    "buy_tip": "前往購買",
-    "buy_label": "前往購買"
+    "th_currency": "貨幣"
   },
   "__languages__": {
     "ja-JP": "日本語",
