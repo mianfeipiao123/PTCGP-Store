@@ -45,13 +45,17 @@ node serve.js
 
 ## 数据更新
 
-价格数据保存在 `prices.json`,如需刷新:
+数据保存在 `prices.json` 和 `product_i18n.json`。
+
+GitHub Actions 会每 1 小时自动运行 `scrape.js`,从官方公开 API 刷新商品、价格和多语言名称;如果数据有变化,会自动提交到仓库。
+
+也可以手动刷新:
 
 ```bash
 node scrape.js
 ```
 
-约 2 分钟(38 次 HTTP 请求,每种货币一次)。
+约 2 分钟(38 种货币价格请求 + 9 种语言名称请求)。
 
 ## 技术细节
 

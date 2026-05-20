@@ -1,0 +1,38 @@
+name: Update store data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Refresh store data
+        run: node scrape.js
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- prices.json product_i18n.json; then
+            echo "No data changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prices.json product_i18n.json
+          git commit -m "chore: 自动更新商品数据"
+          git push
