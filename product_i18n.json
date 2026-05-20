@@ -1,0 +1,458 @@
+{
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_001_web": {
+    "ja-JP": {
+      "name": "公式Webストア　リリース記念　お得なポケゴールド(有償)×30",
+      "group_name": "Webストア　ポケゴールド"
+    },
+    "en-US": {
+      "name": "Official Web Store Release Celebration: Poké Gold (paid) ×30 Deal",
+      "group_name": "Official Web Store Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Célébration de l’ouverture du magasin en ligne officiel : offre Poké Lingots (payants) × 30",
+      "group_name": "Magasin en ligne officiel Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Festeggiamenti per l'arrivo dello store online ufficiale: Pokélingotti in offerta (a pagamento) ×30",
+      "group_name": "Store online ufficiale Pokélingotti"
+    },
+    "de-DE": {
+      "name": "Veröff. des Offiziellen Webstores: Ang. für PokéGold (gekauft) × 30",
+      "group_name": "Offizieller Webstore PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - rebaja de lanzamiento tienda en línea ×30",
+      "group_name": "Tienda web oficial de Pokélingote"
+    },
+    "pt-BR": {
+      "name": "Comemoração de lançamento da Loja Online oficial: Pokéouro (Pago) ×30",
+      "group_name": "Loja Online Oficial do Pokéouro"
+    },
+    "ko-KR": {
+      "name": "공식 Web 스토어 출시 기념 특별 포켓골드(유료)×30",
+      "group_name": "Web 스토어 포켓골드"
+    },
+    "zh-TW": {
+      "name": "歡慶網路商店上線 超值寶可金塊（付費）×30",
+      "group_name": "網路商店寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.no11.tier1": {
+    "ja-JP": {
+      "name": "リリース記念　お得なポケゴールド(有償)×5",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×5",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) - prix de lancement × 5",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta lancio (a pagamento) ×5",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Veröffentlichungs-\nangebot PokéGold (gekauft) × 5",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×5",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×5",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "출시 기념 특별 포켓골드(유료)×5",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "慶祝遊戲上線 超值寶可金塊（付費）×5",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.no11.tier3": {
+    "ja-JP": {
+      "name": "リリース記念　お得なポケゴールド(有償)×15",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×15",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) - prix de lancement × 15",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta lancio (a pagamento) ×15",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Veröffentlichungs-\nangebot PokéGold (gekauft) × 15",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×15",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×15",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "출시 기념 특별 포켓골드(유료)×15",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "慶祝遊戲上線 超值寶可金塊（付費）×15",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.no11.tier10": {
+    "ja-JP": {
+      "name": "リリース記念　お得なポケゴールド(有償)×50",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×50",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) - prix de lancement × 50",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta lancio (a pagamento) ×50",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Veröffentlichungs-\nangebot PokéGold (gekauft) × 50",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×50",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×50",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "출시 기념 특별 포켓골드(유료)×50",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "慶祝遊戲上線 超值寶可金塊（付費）×50",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_002_016": {
+    "ja-JP": {
+      "name": "周辺グッズ「ゾロアーク＆ゾロア」つきポケゴールド(有償)×115",
+      "group_name": "おまけつきポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×115 + Accessories (Zoroark & Zorua)",
+      "group_name": "Poké Gold + Bonuses"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 115 + Accessoires (Zoroark & Zorua)",
+      "group_name": "Poké Lingots + bonus"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×115 + accessori (Zoroark e Zorua)",
+      "group_name": "Pokélingotti + extra"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 115 + Zubehör (Zoroark & Zorua)",
+      "group_name": "PokéGold + Boni"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×115 + accesorios Zoroark y Zorua",
+      "group_name": "Pokélingotes + extras"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×115 + Acessórios (Zoroark e Zorua)",
+      "group_name": "Pokéouro + Bônus"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×115 + 주변 상품 「조로아크&조로아」",
+      "group_name": "포켓골드 + 증정분"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）（附贈周邊物品「索羅亞克＆索羅亞」）×115",
+      "group_name": "附好禮寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_001_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×5",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×5",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 5",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×5",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 5",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×5",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×5",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×5",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×5",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_002_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×25",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×25",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 25",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×25",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 25",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×25",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×25",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×25",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×25",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_003_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×50",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×50",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 50",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×50",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 50",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×50",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×50",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×50",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×50",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_004_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×100",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×100",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 100",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×100",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 100",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×100",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×100",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×100",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×100",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_005_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×200",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×200",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 200",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×200",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 200",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×200",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×200",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×200",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×200",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.SH_CG_PG_003_006_WEB": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×500",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×500",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 500",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×500",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 500",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×500",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×500",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×500",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×500",
+      "group_name": "寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_003_007_web": {
+    "ja-JP": {
+      "name": "ポケゴールド(有償)×1000",
+      "group_name": "ポケゴールド"
+    },
+    "en-US": {
+      "name": "Poké Gold (paid) ×1,000",
+      "group_name": "Poké Gold"
+    },
+    "fr-FR": {
+      "name": "Poké Lingots (payants) × 1 000",
+      "group_name": "Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti (a pagamento) ×1.000",
+      "group_name": "Pokélingotti"
+    },
+    "de-DE": {
+      "name": "PokéGold (gekauft) × 1000",
+      "group_name": "PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) ×1000",
+      "group_name": "Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Pokéouro (Pago) ×1.000",
+      "group_name": "Pokéouro"
+    },
+    "ko-KR": {
+      "name": "포켓골드(유료)×1000",
+      "group_name": "포켓골드"
+    },
+    "zh-TW": {
+      "name": "寶可金塊（付費）×1000",
+      "group_name": "寶可金塊"
+    }
+  }
+}

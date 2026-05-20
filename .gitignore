@@ -1,0 +1,28 @@
+# Editor swap files / OS junk
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Local dev caches
+_chrome_profile/
+_bundle/
+*.local
+
+# Build / temp output
+*.log
+.tmp/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.iml
+
+# Allow committing data snapshots — these are part of the project deliverable.
