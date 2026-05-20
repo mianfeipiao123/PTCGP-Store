@@ -585,7 +585,10 @@ function convert(amount, from, base) {
 function fmt(amount, currency) {
   // Plain formatted string (kept for any non-table caller).
   try {
-    return new Intl.NumberFormat(LANG, { style: 'currency', currency }).format(amount);
+    return new Intl.NumberFormat(LANG, {
+      style: 'currency', currency,
+      minimumFractionDigits: 2, maximumFractionDigits: 2,
+    }).format(amount);
   } catch (_) { return amount + ' ' + currency; }
 }
 
@@ -594,12 +597,17 @@ function fmt(amount, currency) {
 // (the Excel-style alignment that makes price columns easy to scan).
 //   sym  — currency symbol ("CN¥", "US$", "¥", "₩", "R$"…)
 //   int  — integer part with locale group separators ("5", "1,400", "1,00,000")
-//   dec  — decimal separator ("." or ",") or "" if currency has no fraction
-//   frac — fraction digits ("99", "00") or "" if absent
+//   dec  — decimal separator ("." or ",")
+//   frac — fraction digits (always 2 — we force 2-decimal display so every
+//          row looks uniform, even for currencies that natively have no
+//          fractional part like JPY / KRW / HUF / IDR).
 function fmtParts(amount, currency) {
-  const empty = { sym: currency, int: String(amount), dec: '', frac: '' };
+  const empty = { sym: currency, int: String(amount), dec: '.', frac: '00' };
   try {
-    const parts = new Intl.NumberFormat(LANG, { style: 'currency', currency }).formatToParts(amount);
+    const parts = new Intl.NumberFormat(LANG, {
+      style: 'currency', currency,
+      minimumFractionDigits: 2, maximumFractionDigits: 2,
+    }).formatToParts(amount);
     let sym = '', int = '', dec = '', frac = '';
     let seenInt = false;
     for (const p of parts) {
@@ -627,7 +635,8 @@ function fmtParts(amount, currency) {
     return {
       sym: sym.trim(),
       int: int || String(Math.trunc(amount)),
-      dec, frac,
+      dec: dec || '.',
+      frac: frac || '00',
     };
   } catch (_) {
     return empty;
