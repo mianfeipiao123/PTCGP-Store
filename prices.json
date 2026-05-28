@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-20T23:44:28.559Z",
+  "scraped_at": "2026-05-28T04:05:52.723Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -115,11 +115,11 @@
       ]
     },
     {
-      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_016",
-      "id": "sh_cg_pg_002_016",
+      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_019",
+      "id": "sh_cg_pg_002_019",
       "group": "Poké Gold + Bonuses",
-      "name": "Poké Gold (paid) ×115 + Accessories (Zoroark & Zorua)",
-      "img": "https://cdn3.xsolla.com/img/misc/images/a38c220955fa06e6edb98918f0085d59.png",
+      "name": "Poké Gold (paid) ×115 + Accessories (Koraidon)",
+      "img": "https://cdn3.xsolla.com/img/misc/images/d17eeb0b433b6fc806ef8e67b8b71360.png",
       "bonus": 5,
       "extras": [
         {
@@ -131,23 +131,23 @@
           "amount": 5
         },
         {
-          "name": "Zoroark (Pokémon coin)",
+          "name": "Koraidon (Pokémon coin)",
           "amount": 1
         },
         {
-          "name": "Zoroark & Zorua (playmat)",
+          "name": "Koraidon (playmat)",
           "amount": 1
         },
         {
-          "name": "Zoroark (card sleeve)",
+          "name": "Koraidon (card sleeve)",
           "amount": 1
         },
         {
-          "name": "Zoroark & Zorua (backdrop)",
+          "name": "Koraidon (backdrop)",
           "amount": 1
         },
         {
-          "name": "Zoroark & Zorua (cover)",
+          "name": "Koraidon (cover)",
           "amount": 1
         }
       ]
@@ -436,7 +436,7 @@
       "EGP": 499.99,
       "ZAR": 199.99
     },
-    "jp.pokemon.pokemontcgp.sh_cg_pg_002_016": {
+    "jp.pokemon.pokemontcgp.sh_cg_pg_002_019": {
       "JPY": 3200,
       "USD": 22.99,
       "TWD": 690,
