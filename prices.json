@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-28T04:05:52.723Z",
+  "scraped_at": "2026-06-24T04:02:03.144Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -172,15 +172,15 @@
       "group": "Poké Gold",
       "name": "Poké Gold (paid) ×25",
       "img": "https://cdn3.xsolla.com/img/misc/images/a495d2804b166399e009666e4fdb7ab8.png",
-      "bonus": 1,
+      "bonus": 3,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 25
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 1
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 3
         }
       ]
     },
@@ -190,15 +190,15 @@
       "group": "Poké Gold",
       "name": "Poké Gold (paid) ×50",
       "img": "https://cdn3.xsolla.com/img/misc/images/d09e4a7f46d61fb300e3c514b42cdd41.png",
-      "bonus": 7,
+      "bonus": 11,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 50
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 7
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 11
         }
       ]
     },
@@ -208,15 +208,15 @@
       "group": "Poké Gold",
       "name": "Poké Gold (paid) ×100",
       "img": "https://cdn3.xsolla.com/img/misc/images/d2faec2842d9551db01c46bfa5e364de.png",
-      "bonus": 20,
+      "bonus": 29,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 100
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 20
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 29
         }
       ]
     },
@@ -226,15 +226,15 @@
       "group": "Poké Gold",
       "name": "Poké Gold (paid) ×200",
       "img": "https://cdn3.xsolla.com/img/misc/images/233197a8783e0b9be11c1f4d13464b24.png",
-      "bonus": 50,
+      "bonus": 68,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 200
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 50
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 68
         }
       ]
     },
@@ -244,15 +244,15 @@
       "group": "Poké Gold",
       "name": "Poké Gold (paid) ×500",
       "img": "https://cdn3.xsolla.com/img/misc/images/bdd41a5c941366674b2f5829bf23f190.png",
-      "bonus": 190,
+      "bonus": 220,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 500
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 190
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 220
         }
       ]
     },
