@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T04:25:05.612Z",
+  "scraped_at": "2026-06-29T09:52:42.361Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -64,7 +64,7 @@
       "sku": "jp.pokemon.pokemontcgp.no11.tier1",
       "id": "SH_CG_PG_001_001",
       "group": "Poké Gold Deals",
-      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×5",
+      "name": "Release Celebration: Poké Gold (paid) ×5 Deal",
       "img": "https://cdn3.xsolla.com/img/misc/images/d78119ec3e59f2b38a2945121825792f.png",
       "bonus": 7,
       "extras": [
@@ -82,7 +82,7 @@
       "sku": "jp.pokemon.pokemontcgp.no11.tier3",
       "id": "SH_CG_PG_001_002",
       "group": "Poké Gold Deals",
-      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×15",
+      "name": "Release Celebration: Poké Gold (paid) ×15 Deal",
       "img": "https://cdn3.xsolla.com/img/misc/images/197f762c8068b350375763f1059ee349.png",
       "bonus": 15,
       "extras": [
@@ -100,7 +100,7 @@
       "sku": "jp.pokemon.pokemontcgp.no11.tier10",
       "id": "SH_CG_PG_001_003",
       "group": "Poké Gold Deals",
-      "name": "Release Celebration—Reduced Price Poké Gold (paid) ×50",
+      "name": "Release Celebration: Poké Gold (paid) ×50 Deal",
       "img": "https://cdn3.xsolla.com/img/misc/images/a2e890d37d0c7a68d55f6db748d5e845.png",
       "bonus": 22,
       "extras": [
