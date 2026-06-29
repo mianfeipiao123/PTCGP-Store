@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T04:02:03.144Z",
+  "scraped_at": "2026-06-29T04:25:05.612Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -149,20 +149,6 @@
         {
           "name": "Koraidon (cover)",
           "amount": 1
-        }
-      ]
-    },
-    {
-      "sku": "jp.pokemon.pokemontcgp.SH_CG_PG_003_001_WEB",
-      "id": "SH_CG_PG_003_001_WEB",
-      "group": "Poké Gold",
-      "name": "Poké Gold (paid) ×5",
-      "img": "https://cdn3.xsolla.com/img/misc/images/b43fe96c57a2ecd4590498b8830de3d4.png",
-      "bonus": 0,
-      "extras": [
-        {
-          "name": "gold-paid",
-          "amount": 5
         }
       ]
     },
@@ -475,46 +461,6 @@
       "QAR": 79.99,
       "EGP": 1199.99,
       "ZAR": 449.99
-    },
-    "jp.pokemon.pokemontcgp.SH_CG_PG_003_001_WEB": {
-      "JPY": 140,
-      "USD": 0.99,
-      "TWD": 30,
-      "KRW": 1300,
-      "EUR": 0.99,
-      "BRL": 4.9,
-      "TRY": 39.99,
-      "DKK": 9,
-      "AUD": 1.49,
-      "HKD": 8,
-      "INR": 99,
-      "CAD": 1.39,
-      "MXN": 19,
-      "CLP": 990,
-      "COP": 4900,
-      "PEN": 3.9,
-      "GBP": 0.79,
-      "CHF": 1,
-      "SEK": 14,
-      "NOK": 12,
-      "PLN": 4.99,
-      "CZK": 29,
-      "HUF": 499,
-      "RON": 4.99,
-      "KZT": 499,
-      "NZD": 1.99,
-      "SGD": 1.48,
-      "MYR": 4.9,
-      "THB": 39,
-      "IDR": 19000,
-      "PHP": 49,
-      "PKR": 300,
-      "ILS": 3.5,
-      "AED": 2.99,
-      "SAR": 4.99,
-      "QAR": 2.99,
-      "EGP": 49.99,
-      "ZAR": 19.99
     },
     "jp.pokemon.pokemontcgp.SH_CG_PG_003_002_WEB": {
       "JPY": 700,

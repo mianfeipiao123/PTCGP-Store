@@ -55,7 +55,7 @@
       "group_name": "Pokélingotti in offerta"
     },
     "de-DE": {
-      "name": "Veröffentlichungs-\nangebot PokéGold (gekauft) × 5",
+      "name": "Veröffentlichungs-angebot PokéGold (gekauft) × 5",
       "group_name": "Angebote für PokéGold"
     },
     "es-ES": {
@@ -187,44 +187,6 @@
     "zh-TW": {
       "name": "寶可金塊（付費）（附贈周邊物品「故勒頓」）×115",
       "group_name": "附好禮寶可金塊"
-    }
-  },
-  "jp.pokemon.pokemontcgp.SH_CG_PG_003_001_WEB": {
-    "ja-JP": {
-      "name": "ポケゴールド(有償)×5",
-      "group_name": "ポケゴールド"
-    },
-    "en-US": {
-      "name": "Poké Gold (paid) ×5",
-      "group_name": "Poké Gold"
-    },
-    "fr-FR": {
-      "name": "Poké Lingots (payants) × 5",
-      "group_name": "Poké Lingots"
-    },
-    "it-IT": {
-      "name": "Pokélingotti (a pagamento) ×5",
-      "group_name": "Pokélingotti"
-    },
-    "de-DE": {
-      "name": "PokéGold (gekauft) × 5",
-      "group_name": "PokéGold"
-    },
-    "es-ES": {
-      "name": "Pokélingote (de pago) ×5",
-      "group_name": "Pokélingotes"
-    },
-    "pt-BR": {
-      "name": "Pokéouro (Pago) ×5",
-      "group_name": "Pokéouro"
-    },
-    "ko-KR": {
-      "name": "포켓골드(유료)×5",
-      "group_name": "포켓골드"
-    },
-    "zh-TW": {
-      "name": "寶可金塊（付費）×5",
-      "group_name": "寶可金塊"
     }
   },
   "jp.pokemon.pokemontcgp.SH_CG_PG_003_002_WEB": {
