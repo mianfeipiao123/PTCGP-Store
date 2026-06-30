@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T09:52:42.361Z",
+  "scraped_at": "2026-06-30T05:08:55.516Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -115,39 +115,39 @@
       ]
     },
     {
-      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_019",
-      "id": "sh_cg_pg_002_019",
+      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_020",
+      "id": "sh_cg_pg_002_020",
       "group": "Poké Gold + Bonuses",
-      "name": "Poké Gold (paid) ×115 + Accessories (Koraidon)",
-      "img": "https://cdn3.xsolla.com/img/misc/images/d17eeb0b433b6fc806ef8e67b8b71360.png",
-      "bonus": 5,
+      "name": "Poké gold (paid) ×115 + Accessories (Elesa)",
+      "img": "https://cdn3.xsolla.com/img/misc/images/72c06f3357ccc187a82b1cae05cd2cb8.png",
+      "bonus": 13,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 115
         },
         {
-          "name": "webshop_currency_02",
-          "amount": 5
+          "name": "Poké Gold (non-paid + web store bonus)",
+          "amount": 13
         },
         {
-          "name": "Koraidon (Pokémon coin)",
+          "name": "Elesa (Pokémon coin)",
           "amount": 1
         },
         {
-          "name": "Koraidon (playmat)",
+          "name": "Elesa & Emolga (playmat)",
           "amount": 1
         },
         {
-          "name": "Koraidon (card sleeve)",
+          "name": "Elesa (card sleeve)",
           "amount": 1
         },
         {
-          "name": "Koraidon (backdrop)",
+          "name": "Elesa (backdrop)",
           "amount": 1
         },
         {
-          "name": "Koraidon (cover)",
+          "name": "Elesa & Emolga (cover)",
           "amount": 1
         }
       ]
@@ -422,7 +422,7 @@
       "EGP": 499.99,
       "ZAR": 199.99
     },
-    "jp.pokemon.pokemontcgp.sh_cg_pg_002_019": {
+    "jp.pokemon.pokemontcgp.sh_cg_pg_002_020": {
       "JPY": 3200,
       "USD": 22.99,
       "TWD": 690,
