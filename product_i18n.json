@@ -37,6 +37,120 @@
       "group_name": "網路商店寶可金塊"
     }
   },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_021": {
+    "ja-JP": {
+      "name": "サマーセール　お得なポケゴールド(有償)×200",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Summer Sale: Poké Gold (paid) ×200 Deal",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Soldes d'été : offre Poké Lingots (payants) × 200",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta estiva (a pagamento) ×200",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Sommer-Aktion: Ang. für PokéGold (gekauft) × 200",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - oferta estival ×200",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Promoção de Férias: Pokéouro (Pago) ×200",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "서머 세일 특별 포켓골드(유료)×200",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "夏季優惠 超值寶可金塊（付費）×200",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_020": {
+    "ja-JP": {
+      "name": "サマーセール　お得なポケゴールド(有償)×30",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Summer Sale: Poké Gold (paid) ×30 Deal",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Soldes d'été : offre Poké Lingots (payants) × 30",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta estiva (a pagamento) ×30",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Sommer-Aktion: Ang. für PokéGold (gekauft) × 30",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - oferta estival ×30",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Promoção de Férias: Pokéouro (Pago) ×30",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "서머 세일 특별 포켓골드(유료)×30",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "夏季優惠 超值寶可金塊（付費）×30",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_019": {
+    "ja-JP": {
+      "name": "サマーセール　お得なポケゴールド(有償)×15",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "Summer Sale: Poké Gold (paid) ×15 Deal",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Soldes d'été : offre Poké Lingots (payants) × 15",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta estiva (a pagamento) ×15",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "Sommer-Aktion: Ang. für PokéGold (gekauft) × 15",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - oferta estival ×15",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Promoção de Férias: Pokéouro (Pago) ×15",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "서머 세일 특별 포켓골드(유료)×15",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "夏季優惠 超值寶可金塊（付費）×15",
+      "group_name": "超值寶可金塊"
+    }
+  },
   "jp.pokemon.pokemontcgp.no11.tier1": {
     "ja-JP": {
       "name": "リリース記念　お得なポケゴールド(有償)×5",
@@ -151,41 +265,41 @@
       "group_name": "超值寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.sh_cg_pg_002_020": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_002_018": {
     "ja-JP": {
-      "name": "周辺グッズ「カミツレ」つきポケゴールド(有償)×115",
+      "name": "周辺グッズ「メタグロス」つきポケゴールド(有償)×115",
       "group_name": "おまけつきポケゴールド"
     },
     "en-US": {
-      "name": "Poké gold (paid) ×115 + Accessories (Elesa)",
+      "name": "Poké Gold (paid) ×115 + Accessories (Metagross)",
       "group_name": "Poké Gold + Bonuses"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) × 115 + Accessoires (Inezia)",
+      "name": "Poké Lingots (payants) × 115 + Accessoires (Métalosse)",
       "group_name": "Poké Lingots + bonus"
     },
     "it-IT": {
-      "name": "Pokélingotti (a pagamento) ×115 + accessori (Camelia)",
+      "name": "Pokélingotti (a pagamento) ×115 + accessori (Metagross)",
       "group_name": "Pokélingotti + extra"
     },
     "de-DE": {
-      "name": "PokéGold (gekauft) × 115 + Zubehör (Kamilla)",
+      "name": "PokéGold (gekauft) × 115 + Zubehör (Metagross)",
       "group_name": "PokéGold + Boni"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) ×115 + accesorios Camila",
+      "name": "Pokélingote (de pago) ×115 + accesorios Metagross",
       "group_name": "Pokélingotes + extras"
     },
     "pt-BR": {
-      "name": "Pokéouro (Pago) ×115 + Acessórios (Elesa)",
+      "name": "Pokéouro (Pago) ×115 + Acessórios (Metagross)",
       "group_name": "Pokéouro + Bônus"
     },
     "ko-KR": {
-      "name": "포켓골드(유료)×115 + 주변 상품 「카밀레」",
+      "name": "포켓골드(유료)×115 + 주변 상품 「메타그로스」",
       "group_name": "포켓골드 + 증정분"
     },
     "zh-TW": {
-      "name": "寶可金塊（付費）（附贈周邊物品「小菊兒」）×115",
+      "name": "寶可金塊（付費）（附贈周邊物品「巨金怪」）×115",
       "group_name": "附好禮寶可金塊"
     }
   },
