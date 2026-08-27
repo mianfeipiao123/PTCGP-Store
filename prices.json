@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T06:54:44.919Z",
+  "scraped_at": "2026-08-27T04:28:45.624Z",
   "source": "https://store.pokemontcgpocket.com/api/v1/product/list",
   "currencies": [
     "AED",
@@ -115,39 +115,43 @@
       ]
     },
     {
-      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_018",
-      "id": "sh_cg_pg_002_018",
+      "sku": "jp.pokemon.pokemontcgp.sh_cg_pg_002_021",
+      "id": "sh_cg_pg_002_021",
       "group": "Poké Gold + Bonuses",
-      "name": "Poké Gold (paid) ×115 + Accessories (Metagross)",
-      "img": "https://cdn3.xsolla.com/img/misc/images/72fa986c193819a6774d4f20f0fe96df.png",
-      "bonus": 13,
+      "name": "Poké Gold (paid) ×115 + Accessories (Zapdos, Articuno, and Moltres)",
+      "img": "https://cdn.xsolla.net/merchant-bucket-prod/files/uploaded/755829/1321c05d937a80c1a6d1d7900a2b187b.png",
+      "bonus": 5,
       "extras": [
         {
           "name": "gold-paid",
           "amount": 115
         },
         {
-          "name": "Poké Gold (non-paid + web store bonus)",
-          "amount": 13
+          "name": "webshop_currency_02",
+          "amount": 5
         },
         {
-          "name": "Metagross (Pokémon coin)",
+          "name": "Poké Gold (web store bonus)",
+          "amount": 8
+        },
+        {
+          "name": "Zapdos (Pokémon coin)",
           "amount": 1
         },
         {
-          "name": "Metagross (playmat)",
+          "name": "Zapdos, Articuno, and Moltres (playmat)",
           "amount": 1
         },
         {
-          "name": "Metagross (card sleeve)",
+          "name": "Zapdos, Articuno, and Moltres (card sleeve)",
           "amount": 1
         },
         {
-          "name": "Metagross (backdrop)",
+          "name": "Zapdos, Articuno, and Moltres (backdrop)",
           "amount": 1
         },
         {
-          "name": "Metagross (cover)",
+          "name": "Zapdos, Articuno, and Moltres (cover)",
           "amount": 1
         }
       ]
@@ -442,7 +446,7 @@
       "EGP": 499.99,
       "ZAR": 199.99
     },
-    "jp.pokemon.pokemontcgp.sh_cg_pg_002_018": {
+    "jp.pokemon.pokemontcgp.sh_cg_pg_002_021": {
       "JPY": 3200,
       "USD": 22.99,
       "TWD": 690,
