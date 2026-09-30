@@ -151,41 +151,41 @@
       "group_name": "超值寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.sh_cg_pg_002_021": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_002_022": {
     "ja-JP": {
-      "name": "周辺グッズ「サンダー＆フリーザー＆ファイヤー」つきポケゴールド(有償)×115",
+      "name": "周辺グッズ「フーパ」つきポケゴールド(有償)×115",
       "group_name": "おまけつきポケゴールド"
     },
     "en-US": {
-      "name": "Poké Gold (paid) ×115 + Accessories (Zapdos, Articuno, and Moltres)",
+      "name": "Poké Gold (paid) ×115 + Accessories (Hoopa)",
       "group_name": "Poké Gold + Bonuses"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) × 115 + Accessoires (Électhor, Artikodin & Sulfura)",
+      "name": "Poké Lingots (payants) × 115 + Accessoires (Hoopa)",
       "group_name": "Poké Lingots + bonus"
     },
     "it-IT": {
-      "name": "Pokélingotti (a pagamento) ×115 + accessori (Zapdos, Articuno e Moltres)",
+      "name": "Pokélingotti (a pagamento) ×115 + accessori (Hoopa)",
       "group_name": "Pokélingotti + extra"
     },
     "de-DE": {
-      "name": "PokéGold (gekauft) × 115 + Zubehör (Zapdos & Arktos & Lavados)",
+      "name": "PokéGold (gekauft) × 115 + Zubehör (Hoopa)",
       "group_name": "PokéGold + Boni"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) ×115 + accesorios Zapdos, Articuno y Moltres",
+      "name": "Pokélingote (de pago) ×115 + accesorios Hoopa",
       "group_name": "Pokélingotes + extras"
     },
     "pt-BR": {
-      "name": "Pokéouro (Pago) ×115 + Acessórios (Zapdos, Articuno e Moltres)",
+      "name": "Pokéouro (Pago) ×115 + Acessórios (Hoopa)",
       "group_name": "Pokéouro + Bônus"
     },
     "ko-KR": {
-      "name": "포켓골드(유료)×115 + 주변 상품 「썬더&프리져&파이어」",
+      "name": "포켓골드(유료)×115 + 주변 상품 「후파」",
       "group_name": "포켓골드 + 증정분"
     },
     "zh-TW": {
-      "name": "寶可金塊（付費）（附贈周邊物品「閃電鳥＆急凍鳥＆火焰鳥」）×115",
+      "name": "寶可金塊（付費）（附贈周邊物品「胡帕」）×115",
       "group_name": "附好禮寶可金塊"
     }
   },
