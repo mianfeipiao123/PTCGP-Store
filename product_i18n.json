@@ -37,155 +37,193 @@
       "group_name": "網路商店寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.no11.tier1": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_033": {
     "ja-JP": {
-      "name": "リリース記念　お得なポケゴールド(有償)×5",
+      "name": "おまけポケゴールド(無償)55個つき！超お得なポケゴールド(有償)×5",
       "group_name": "お得なポケゴールド"
     },
     "en-US": {
-      "name": "Release Celebration: Poké Gold (paid) ×5 Deal",
+      "name": "Poké Gold (paid) ×5 Super Deal + 55 Bonus Poké Gold (non-paid)!",
       "group_name": "Poké Gold Deals"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) - prix de lancement × 5",
+      "name": "Super offre Poké Lingots (payants) × 5 + 55 Poké Lingots (non payants) en bonus !",
       "group_name": "Offres Poké Lingots"
     },
     "it-IT": {
-      "name": "Pokélingotti offerta lancio (a pagamento) ×5",
+      "name": "Pokélingotti in super offerta (a pagamento) ×5 + 55 Pokélingotti extra (senza costo)!",
       "group_name": "Pokélingotti in offerta"
     },
     "de-DE": {
-      "name": "Veröffentlichungs­­angebot PokéGold (gekauft) × 5",
+      "name": "Super-Angebot für PokéGold (gekauft) × 5 + Bonus-PokéGold (kostenlos) × 55!",
       "group_name": "Angebote für PokéGold"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×5",
+      "name": "Pokélingote (de pago) ×5 + 55 Pokélingotes (sin coste) extra. ¡Ofertón!",
       "group_name": "Ofertas de Pokélingotes"
     },
     "pt-BR": {
-      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×5",
+      "name": "Superoferta: Pokéouro (Pago) ×5 + 55 Pokéouro bônus (Não pago)!\n\n",
       "group_name": "Oferta de Pokéouro"
     },
     "ko-KR": {
-      "name": "출시 기념 특별 포켓골드(유료)×5",
+      "name": "초특별 포켓골드(유료)×5 + 증정분 포켓골드(무료) 55개!",
       "group_name": "특별 포켓골드"
     },
     "zh-TW": {
-      "name": "慶祝遊戲上線 超值寶可金塊（付費）×5",
+      "name": "附贈55個寶可金塊（免費）！超超值寶可金塊（付費）×5",
       "group_name": "超值寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.no11.tier3": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_034": {
     "ja-JP": {
-      "name": "リリース記念　お得なポケゴールド(有償)×15",
+      "name": "新拡張パックスタートダッシュ！お得なポケゴールド(有償)×35",
       "group_name": "お得なポケゴールド"
     },
     "en-US": {
-      "name": "Release Celebration: Poké Gold (paid) ×15 Deal",
+      "name": "New Booster Pack Jump Start! Poké Gold (paid) ×35 Deal",
       "group_name": "Poké Gold Deals"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) - prix de lancement × 15",
+      "name": "Nouveau Booster départ turbo ! Offre Poké Lingots\n(payants) × 35",
       "group_name": "Offres Poké Lingots"
     },
     "it-IT": {
-      "name": "Pokélingotti offerta lancio (a pagamento) ×15",
+      "name": "Pokélingotti offerta partenza sprint nuova busta (a pagamento) ×35",
       "group_name": "Pokélingotti in offerta"
     },
     "de-DE": {
-      "name": "Veröffentlichungs­­angebot PokéGold (gekauft) × 15",
+      "name": "Starthilfe für das neue Boosterpack: Ang. für PokéGold (gekauft) × 35",
       "group_name": "Angebote für PokéGold"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×15",
+      "name": "Pokélingote (de pago) ×35: ¡oferta de impulso para el nuevo sobre de mejora!",
       "group_name": "Ofertas de Pokélingotes"
     },
     "pt-BR": {
-      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×15",
+      "name": "Oferta de impulso do novo pacote! Pokéouro (Pago) ×35",
       "group_name": "Oferta de Pokéouro"
     },
     "ko-KR": {
-      "name": "출시 기념 특별 포켓골드(유료)×15",
+      "name": "신규 확장팩 스타트 대시! 특별 포켓골드(유료)×35",
       "group_name": "특별 포켓골드"
     },
     "zh-TW": {
-      "name": "慶祝遊戲上線 超值寶可金塊（付費）×15",
+      "name": "新擴充包搶鮮衝刺！超值寶可金塊（付費）×35",
       "group_name": "超值寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.no11.tier10": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_025": {
     "ja-JP": {
-      "name": "リリース記念　お得なポケゴールド(有償)×50",
+      "name": "2周年記念　お得なポケゴールド(有償)×100",
       "group_name": "お得なポケゴールド"
     },
     "en-US": {
-      "name": "Release Celebration: Poké Gold (paid) ×50 Deal",
+      "name": "2nd Anniv.: Poké Gold (paid) ×100 Deal",
       "group_name": "Poké Gold Deals"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) - prix de lancement × 50",
+      "name": "Deuxième anniversaire : offre Poké Lingots (payants) × 100",
       "group_name": "Offres Poké Lingots"
     },
     "it-IT": {
-      "name": "Pokélingotti offerta lancio (a pagamento) ×50",
+      "name": "Pokélingotti offerta 2° anniversario (a pagamento) ×100",
       "group_name": "Pokélingotti in offerta"
     },
     "de-DE": {
-      "name": "Veröffentlichungs­­angebot PokéGold (gekauft) × 50",
+      "name": "2. Jubiläumsfeier: Ang. für PokéGold (gekauft) × 100",
       "group_name": "Angebote für PokéGold"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) - rebaja por lanzamiento ×50",
+      "name": "Pokélingote (de pago) - segundo aniversario ×100",
       "group_name": "Ofertas de Pokélingotes"
     },
     "pt-BR": {
-      "name": "Comemoração de lançamento: oferta de Pokéouro (Pago) ×50",
+      "name": "Oferta do 2º Aniv.: Pokéouro (Pago) ×100",
       "group_name": "Oferta de Pokéouro"
     },
     "ko-KR": {
-      "name": "출시 기념 특별 포켓골드(유료)×50",
+      "name": "2주년 기념 특별 포켓골드(유료)×100",
       "group_name": "특별 포켓골드"
     },
     "zh-TW": {
-      "name": "慶祝遊戲上線 超值寶可金塊（付費）×50",
+      "name": "2週年紀念　超值寶可金塊（付費）×100",
       "group_name": "超值寶可金塊"
     }
   },
-  "jp.pokemon.pokemontcgp.sh_cg_pg_002_022": {
+  "jp.pokemon.pokemontcgp.sh_cg_pg_001_026": {
     "ja-JP": {
-      "name": "周辺グッズ「フーパ」つきポケゴールド(有償)×115",
+      "name": "2周年記念　お得なポケゴールド(有償)×200",
+      "group_name": "お得なポケゴールド"
+    },
+    "en-US": {
+      "name": "2nd Anniv.: Poké Gold (paid) ×200 Deal",
+      "group_name": "Poké Gold Deals"
+    },
+    "fr-FR": {
+      "name": "Deuxième anniversaire : offre Poké Lingots (payants) × 200",
+      "group_name": "Offres Poké Lingots"
+    },
+    "it-IT": {
+      "name": "Pokélingotti offerta 2° anniversario (a pagamento) ×200",
+      "group_name": "Pokélingotti in offerta"
+    },
+    "de-DE": {
+      "name": "2. Jubiläumsfeier: Ang. für PokéGold (gekauft) × 200",
+      "group_name": "Angebote für PokéGold"
+    },
+    "es-ES": {
+      "name": "Pokélingote (de pago) - segundo aniversario ×200",
+      "group_name": "Ofertas de Pokélingotes"
+    },
+    "pt-BR": {
+      "name": "Oferta do 2º Aniv.: Pokéouro (Pago) ×200",
+      "group_name": "Oferta de Pokéouro"
+    },
+    "ko-KR": {
+      "name": "2주년 기념 특별 포켓골드(유료)×200",
+      "group_name": "특별 포켓골드"
+    },
+    "zh-TW": {
+      "name": "2週年紀念　超值寶可金塊（付費）×200",
+      "group_name": "超值寶可金塊"
+    }
+  },
+  "jp.pokemon.pokemontcgp.sh_cg_pg_002_023": {
+    "ja-JP": {
+      "name": "周辺グッズ「ピカチュウと仲間たち」つきポケゴールド(有償)×115",
       "group_name": "おまけつきポケゴールド"
     },
     "en-US": {
-      "name": "Poké Gold (paid) ×115 + Accessories (Hoopa)",
+      "name": "Poké Gold (paid) ×115 + Accessories (Pikachu & Friends)",
       "group_name": "Poké Gold + Bonuses"
     },
     "fr-FR": {
-      "name": "Poké Lingots (payants) × 115 + Accessoires (Hoopa)",
+      "name": "Poké Lingots (payants) × 115 + Accessoires (Pikachu & ses amis)",
       "group_name": "Poké Lingots + bonus"
     },
     "it-IT": {
-      "name": "Pokélingotti (a pagamento) ×115 + accessori (Hoopa)",
+      "name": "Pokélingotti (a pagamento) ×115 + accessori (Pikachu & co.)",
       "group_name": "Pokélingotti + extra"
     },
     "de-DE": {
-      "name": "PokéGold (gekauft) × 115 + Zubehör (Hoopa)",
+      "name": "PokéGold (gekauft) × 115 + Zubehör (Pikachu & Freunde)",
       "group_name": "PokéGold + Boni"
     },
     "es-ES": {
-      "name": "Pokélingote (de pago) ×115 + accesorios Hoopa",
+      "name": "Pokélingote (de pago) ×115 + accesorios Pikachu y amigos",
       "group_name": "Pokélingotes + extras"
     },
     "pt-BR": {
-      "name": "Pokéouro (Pago) ×115 + Acessórios (Hoopa)",
+      "name": "Pokéouro (Pago) ×115 + Acessórios (Pikachu & Amigos)",
       "group_name": "Pokéouro + Bônus"
     },
     "ko-KR": {
-      "name": "포켓골드(유료)×115 + 주변 상품 「후파」",
+      "name": "포켓골드(유료)×115 + 주변 상품 「피카츄와 동료들」",
       "group_name": "포켓골드 + 증정분"
     },
     "zh-TW": {
-      "name": "寶可金塊（付費）（附贈周邊物品「胡帕」）×115",
+      "name": "寶可金塊（付費）（附贈周邊物品「皮卡丘與夥伴們」）×115",
       "group_name": "附好禮寶可金塊"
     }
   },
